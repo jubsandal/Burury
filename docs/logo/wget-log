@@ -1,0 +1,14 @@
+--2022-04-01 20:15:33--  https://www.qt.io/hs-fs/hubfs/Qt%20Creator-1024.png?width=225
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving www.qt.io (www.qt.io)... 2606:2c40::c73c:671f, 2606:2c40::c73c:67e1, 199.60.103.31, ...
+Connecting to www.qt.io (www.qt.io)|2606:2c40::c73c:671f|:443... failed: Network is unreachable.
+Connecting to www.qt.io (www.qt.io)|2606:2c40::c73c:67e1|:443... failed: Network is unreachable.
+Connecting to www.qt.io (www.qt.io)|199.60.103.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27493 (27K) [image/png]
+Saving to: ‘Qt Creator-1024.png?width=225’
+
+Qt Creator-1024.png?width=225         0%[                                                                  ]       0  --.-KB/s               Qt Creator-1024.png?width=225       100%[=================================================================>]  26.85K  --.-KB/s    in 0.02s   
+
+2022-04-01 20:15:34 (1.14 MB/s) - ‘Qt Creator-1024.png?width=225’ saved [27493/27493]
+

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1114.5833px" preserveAspectRatio="none" style="width:861px;height:1114px;background:#00000000;" version="1.1" viewBox="0 0 861 1114" width="861.4583px" zoomAndPan="magnify"><defs><linearGradient id="g9rs6e98c5mnk0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#FFFFFF"/></linearGradient><filter height="300%" id="f9rs6e98c5mnk" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="g9rs6e98c5mnk1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#4DABF5"/><stop offset="100%" stop-color="#2196F3"/></linearGradient></defs><g><!--MD5=[287fab0f46f2b69ae34c8d967a198352]
+cluster PSC activities--><rect fill="url(#g9rs6e98c5mnk0)" filter="url(#f9rs6e98c5mnk)" height="1079.1667" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="347.9167" x="495.8333" y="17.7083"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="135.5469" x="602.0182" y="52.4791">PSC activities</text><!--MD5=[c9d37f3df1c43471dca8a54a2cbfc004]
+cluster PSC positions--><rect fill="url(#g9rs6e98c5mnk0)" filter="url(#f9rs6e98c5mnk)" height="912.5" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="220.8333" x="17.7083" y="78.125"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="139.0625" x="58.5938" y="112.8958">PSC positions</text><ellipse cx="669.7034" cy="1048.0471" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="129.0784" ry="31.9012" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="144.7917" x="597.3076" y="1051.622">Recrut a new person</text><ellipse cx="669.5987" cy="351.8233" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="139.3904" ry="60.6775" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="159.375" x="589.9112" y="335.0504">Checkout new contract</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="105.2083" x="616.9945" y="375.7462">from Customer</text><ellipse cx="669.8388" cy="585.5471" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="101.0888" ry="31.9012" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="105.2083" x="617.2346" y="589.122">Regster wapon</text><ellipse cx="670.0455" cy="714.3233" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="132.0247" ry="60.6775" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="148.9583" x="595.5663" y="697.5504">Purchase new wapon</text><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="62.5" x="638.7955" y="738.2462">or ammo</text><ellipse cx="669.9341" cy="483.1535" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="153.2674" ry="33.1535" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="187.5" x="576.1841" y="486.7285">Assign wapon to employee</text><ellipse cx="670.0295" cy="845.9851" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="157.5295" ry="34.0059" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="198.9583" x="570.5503" y="849.56">Pay for accident to customer</text><ellipse cx="670.0021" cy="948.0471" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="106.9813" ry="31.9012" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="113.5417" x="613.2313" y="951.622">Pay to employee</text><ellipse cx="670.0452" cy="220.884" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="154.4202" ry="33.384" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="190.625" x="574.7327" y="224.459">Execute customer objective</text><ellipse cx="669.9651" cy="118.8804" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="103.2985" ry="31.9012" style="stroke:#2196F3;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="108.3333" x="615.7985" y="122.4554">Accident report</text><!--MD5=[9877f6724d1a276f2a95363da75a191d]
+entity adm--><ellipse cx="128.125" cy="444.2708" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,452.6042 L128.125,480.7292 M114.5833,460.9375 L141.6667,460.9375 M128.125,480.7292 L114.5833,496.3542 M128.125,480.7292 L141.6667,496.3542 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="104.1667" x="76.0417" y="527.5687">Administration</text><!--MD5=[25fdbc256ceb9e3bdcb330150c9533c0]
+entity sec--><ellipse cx="128.125" cy="156.7708" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,165.1042 L128.125,193.2292 M114.5833,173.4375 L141.6667,173.4375 M128.125,193.2292 L114.5833,208.8542 M128.125,193.2292 L141.6667,208.8542 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="143.75" x="56.25" y="240.0687">Security department</text><!--MD5=[3173f5c488fc7caa7cbc2980bfdb2303]
+entity ink--><ellipse cx="128.125" cy="300.5208" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,308.8542 L128.125,336.9792 M114.5833,317.1875 L141.6667,317.1875 M128.125,336.9792 L114.5833,352.6042 M128.125,336.9792 L141.6667,352.6042 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="160.4167" x="47.9167" y="383.8187">Inkosation department</text><!--MD5=[596ab71e12396e6d88b59b99bd679e81]
+entity wpn--><ellipse cx="128.125" cy="588.0208" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,596.3542 L128.125,624.4792 M114.5833,604.6875 L141.6667,604.6875 M128.125,624.4792 L114.5833,640.1042 M128.125,624.4792 L141.6667,640.1042 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="136.4583" x="59.8958" y="671.3187">Wapon department</text><!--MD5=[c8bd106169e92d1cec7d5e24ed4a2f44]
+entity acc--><ellipse cx="128.125" cy="731.7708" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,740.1042 L128.125,768.2292 M114.5833,748.4375 L141.6667,748.4375 M128.125,768.2292 L114.5833,783.8542 M128.125,768.2292 L141.6667,783.8542 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="166.6667" x="44.7917" y="815.0687">Accounting department</text><!--MD5=[0330432914290acc6fa0b9d79f63f330]
+entity rec--><ellipse cx="128.125" cy="875.5208" fill="url(#g9rs6e98c5mnk1)" filter="url(#f9rs6e98c5mnk)" rx="8.3333" ry="8.3333" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M128.125,883.8542 L128.125,911.9792 M114.5833,892.1875 L141.6667,892.1875 M128.125,911.9792 L114.5833,927.6042 M128.125,911.9792 L141.6667,927.6042 " fill="none" filter="url(#f9rs6e98c5mnk)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="137.5" x="59.375" y="958.8187">Recruit department</text><!--MD5=[e58057acdc26998b3f7dd35ce8b6f191]
+link adm to accept--><path d="M190.7917,486.9479 C262.2188,483.3958 382.4688,472.1042 479.1667,436.4583 C483.2604,434.9479 483.6354,433.2917 487.5,431.25 C511.1354,418.7917 537.1458,406.5833 561.9063,395.6458 " fill="none" id="adm-to-accept" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="566.8438,393.4688,556.5846,393.4242,562.0752,395.5634,559.936,401.0539,566.8438,393.4688" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="96.875" x="318.75" y="421.7677">Accept contract</text><!--MD5=[3b7d10adeb0397d01cdbf8e246fa8c3a]
+link acc to payToEmpl--><path d="M222.0417,823.3125 C231.2813,830.6458 239.8229,838.8438 246.875,847.9167 C254.6042,857.8646 245.7708,866.6667 255.2083,875 C338.7917,948.8125 470.1146,960.4479 562.3021,957.8646 " fill="none" id="acc-to-payToEmpl" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="567.7708,957.6875,558.2696,953.8174,562.5651,957.8511,558.5313,962.1466,567.7708,957.6875" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="78.125" x="328.125" y="860.3094">Pay for work</text><!--MD5=[759fa7c8cce335697a3170fca44ab18c]
+link acc to payAcc--><path d="M221.9792,793.6458 C233.1563,795.5521 244.4271,797.3646 255.2083,798.9583 C342.8125,811.875 441.3229,823.1667 520.2083,831.4271 " fill="none" id="acc-to-payAcc" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="525.8542,832.0208,516.9577,826.9116,520.6735,831.4849,516.1002,835.2007,525.8542,832.0208" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="201.0417" x="266.6667" y="784.2677">Pay if assigned employees guilty</text><!--MD5=[c51ee8cf00e7ca7b06975d6824952354]
+link ink to doWork--><path d="M218.8542,365.0938 C309.875,383.2917 442.4688,402.3958 479.1667,368.75 C494.9271,354.3021 473.9167,289.4167 487.5,272.9167 C499.3854,258.4792 515,247.8854 532.0729,240.1562 " fill="none" id="ink-to-doWork" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="536.9271,238.0417,526.6683,237.9434,532.1476,240.1113,529.9797,245.5906,536.9271,238.0417" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="86.4583" x="323.9583" y="354.0594">Do inkosation</text><!--MD5=[4cd25ff125e542acb33a3a93eafc86f3]
+link sec to doWork--><path d="M210.5313,204.0313 C290.2188,206.9479 413.6979,211.4792 512.4063,215.0938 " fill="none" id="sec-to-doWork" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="517.6875,215.2917,508.4736,210.7799,512.4828,215.0983,508.1643,219.1075,517.6875,215.2917" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="97.9167" x="318.2292" y="191.5594">Security objects</text><!--MD5=[9d8a75c51755c0ffaa2278cb899b0551]
+link sec to report--><path d="M210.4792,171.25 C225.2083,166.6875 240.5521,162.4792 255.2083,159.375 C357.9375,137.625 477.5313,127.4792 561.6146,122.7708 " fill="none" id="sec-to-report" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="567.0938,122.4688,557.4963,118.8437,561.8939,122.7659,557.9717,127.1635,567.0938,122.4688" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="95.8333" x="319.2708" y="114.4761">Accident report</text><!--MD5=[9d06f319f624d3c4aa1b989e4ee0ae2d]
+link ink to report--><path d="M219.1563,329.5208 C317.0521,312.0417 462.0104,283.2917 479.1667,263.5417 C493.0313,247.5729 473.9688,185 487.5,168.75 C506.3854,146.0833 534.5208,133.1875 563.0313,126 " fill="none" id="ink-to-report" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="568.3542,124.7188,558.2648,122.8595,563.2902,125.9365,560.2132,130.9618,568.3542,124.7188" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="95.8333" x="319.2708" y="248.8511">Accident report</text><!--MD5=[5cd425022bc4ce9330e6013e69639386]
+link wpn to buyWpn--><path d="M206.9479,668.1354 C222.6458,674.1146 239.2292,679.5938 255.2083,683.3333 C346.0938,704.625 451,712.3646 532.4063,714.8229 " fill="none" id="wpn-to-buyWpn" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="537.7292,714.9688,528.477,710.536,532.523,714.82,528.239,718.866,537.7292,714.9688" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="51.0417" x="341.6667" y="668.6427">Request</text><!--MD5=[107c21256ec8c90226d92b90fb5f48ca]
+link wpn to regWpn--><path d="M206.9271,633.9479 C278.0208,634.5833 385.9792,633.3021 479.1667,622.9167 C513.5104,619.0833 550.9063,612.2708 583.3333,605.4896 " fill="none" id="wpn-to-regWpn" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="588.5,604.4063,578.469,602.2544,583.4028,605.4762,580.1809,610.41,588.5,604.4063" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="51.0417" x="341.6667" y="608.2261">Register</text><!--MD5=[32680164ac205ad00b79f198ecb000ae]
+link wpn to assignWpn--><path d="M206.9167,596.0208 C222.6875,589.4792 239.3125,583.1458 255.2083,578.125 C352.1771,547.4792 380.0833,554.1354 479.1667,531.25 C507.3438,524.7396 537.7708,517.2604 565.8229,510.1667 " fill="none" id="wpn-to-assignWpn" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="571.0313,508.8542,560.9195,507.1207,565.9828,510.1349,562.9687,515.1982,571.0313,508.8542" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="40.625" x="346.875" y="516.5594">Assign</text><!--MD5=[39daf411c146f758cfed1ace41212e72]
+link rec to recrut--><path d="M179.125,973.5625 C200.5313,993.0208 227.0729,1012.9063 255.2083,1023.9583 C347.5625,1060.2292 460.4896,1064.3646 544.9896,1060.4688 " fill="none" id="rec-to-recrut" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="550.5104,1060.1979,540.9438,1056.4923,545.3083,1060.4513,541.3492,1064.8158,550.5104,1060.1979" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="151.0417" x="291.6667" y="1009.2677">Test person and register</text><!--MD5=[37e80c8e11dcdcd58109d61f16bb6a10]
+@startuml
+!theme materia
+
+top to bottom direction
+
+rectangle "PSC activities" {
+left to right direction
+usecase recrut as "Recrut a new person"
+usecase accept as "Checkout new contract
+from Customer"
+usecase regWpn as "Regster wapon"
+usecase buyWpn as "Purchase new wapon
+or ammo"
+usecase assignWpn as "Assign wapon to employee"
+usecase payAcc as "Pay for accident to customer"
+usecase payToEmpl as "Pay to employee"
+usecase doWork as "Execute customer objective"
+usecase report as "Accident report"
+}
+
+rectangle "PSC positions" {
+actor Administration as adm
+actor "Security department" as sec
+actor "Inkosation department" as ink
+actor "Wapon department" as wpn
+actor "Accounting department" as acc
+actor "Recruit department" as rec
+}
+
+adm -down-> accept: "Accept contract"
+
+acc -down-> payToEmpl: "Pay for work"
+acc -down-> payAcc: "Pay if assigned employees guilty"
+
+ink -down-> doWork: "Do inkosation"
+sec -down-> doWork: "Security objects"
+
+sec -> report: "Accident report"
+ink -> report: "Accident report"
+
+wpn -down-> buyWpn: "Request"
+wpn -down-> regWpn: "Register"
+wpn -down-> assignWpn: "Assign"
+
+rec -down-> recrut: "Test person and register"
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #FFF
+    HyperLinkColor #fd7e14
+    LineColor #1a78c2
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #2196F3-#1a78c2
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #fff
+    FontColor #9C27B0
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #222
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #222
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #fff-#fff
+	FontColor #2196F3
+	BorderColor #fff
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3    
+		LineColor #2196F3
+		LineThickness 1.0
+		FontColor #1a78c2
+	}
+	server {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	}
+	arrow {
+		FontColor #1a78c2
+		LineColor #1a78c2
+	}
+	group {
+		BackGroundColor #fff
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+		LineColor #2196F3
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #FFF
+		LineColor #7D1F8D
+		BackGroundColor #9C27B0
+	}
+	separator {
+		LineColor #fff
+		BackGroundColor #fff-#cccccc
+		FontColor #222
+	}
+	milestone {
+		FontColor #9C27B0
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #fff
+		LineColor #cccccc
+	}
+	timeline {
+		BackgroundColor #fff
+		FontColor #222
+	}
+	closed {
+		BackgroundColor #CC7A00
+		FontColor #FFF
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor #b7161c
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #fff-#fff
+}
+
+skinparam legend {
+	BackgroundColor #fff
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor #FFF-#fff
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #222
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor #fff
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #fff
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor #FFF-#fff
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#fff
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam interface {
+	BackgroundColor  #B7161C
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor #ffad33-#ff9800
+  	BorderColor #ff9800
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #fff-#fff
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+	FontColor #2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#fff
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#fff
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderColor #1a78c2
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam card {
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #fff-#fff
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+top to bottom direction
+
+rectangle "PSC activities" {
+left to right direction
+usecase recrut as "Recrut a new person"
+usecase accept as "Checkout new contract
+from Customer"
+usecase regWpn as "Regster wapon"
+usecase buyWpn as "Purchase new wapon
+or ammo"
+usecase assignWpn as "Assign wapon to employee"
+usecase payAcc as "Pay for accident to customer"
+usecase payToEmpl as "Pay to employee"
+usecase doWork as "Execute customer objective"
+usecase report as "Accident report"
+}
+
+rectangle "PSC positions" {
+actor Administration as adm
+actor "Security department" as sec
+actor "Inkosation department" as ink
+actor "Wapon department" as wpn
+actor "Accounting department" as acc
+actor "Recruit department" as rec
+}
+
+adm -down-> accept: "Accept contract"
+
+acc -down-> payToEmpl: "Pay for work"
+acc -down-> payAcc: "Pay if assigned employees guilty"
+
+ink -down-> doWork: "Do inkosation"
+sec -down-> doWork: "Security objects"
+
+sec -> report: "Accident report"
+ink -> report: "Accident report"
+
+wpn -down-> buyWpn: "Request"
+wpn -down-> regWpn: "Register"
+wpn -down-> assignWpn: "Assign"
+
+rec -down-> recrut: "Test person and register"
+
+@enduml
+
+PlantUML version 1.2021.16(Wed Dec 08 20:25:22 MSK 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

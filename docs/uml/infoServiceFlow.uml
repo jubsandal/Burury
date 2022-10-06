@@ -1,0 +1,18 @@
+@startuml
+!theme materia
+top to bottom direction
+
+actor Customer as cus
+actor "Recrut" as req
+package PSC {
+    actor Administration as adm
+    actor Service as serv
+    collections Departments as dep
+}
+
+cus <-down-> serv: Contract request/response
+req <-down-> serv: Registration request/response
+adm <-> serv: Custom Request/Response
+dep <-> serv: Custom Request/Response
+
+@enduml

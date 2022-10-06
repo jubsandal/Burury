@@ -1,0 +1,38 @@
+@startuml
+!theme materia
+
+actor "Customer" as cus
+actor "Administration" as adm
+actor "Security department" as sec
+actor "Accounting department" as acc
+
+activate cus
+cus -> adm: Security request
+note left
+Security objects
+or inkosation
+end note
+deactivate cus
+activate adm
+
+adm -> sec: Checkout free employees
+activate sec
+sec --> adm: Free employees
+deactivate sec
+
+adm -> cus: Employees that can do work
+activate cus
+cus --> adm: Selected employees
+adm -> acc: Configured contract
+deactivate adm
+activate acc
+acc -> cus: Payment check
+cus --> acc: Pay
+deactivate cus
+deactivate acc
+
+activate adm
+adm -> sec: Contract
+deactivate adm
+
+@enduml

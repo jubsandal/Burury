@@ -1,0 +1,47 @@
+@startuml
+!theme materia
+
+top to bottom direction
+
+rectangle "PSC activities" {
+left to right direction
+usecase recrut as "Recrut a new person"
+usecase accept as "Checkout new contract
+from Customer"
+usecase regWpn as "Regster wapon"
+usecase buyWpn as "Purchase new wapon
+or ammo"
+usecase assignWpn as "Assign wapon to employee"
+usecase payAcc as "Pay for accident to customer"
+usecase payToEmpl as "Pay to employee"
+usecase doWork as "Execute customer objective"
+usecase report as "Accident report"
+}
+
+rectangle "PSC positions" {
+actor Administration as adm
+actor "Security department" as sec
+actor "Inkosation department" as ink
+actor "Wapon department" as wpn
+actor "Accounting department" as acc
+actor "Recruit department" as rec
+}
+
+adm -down-> accept: "Accept contract"
+
+acc -down-> payToEmpl: "Pay for work"
+acc -down-> payAcc: "Pay if assigned employees guilty"
+
+ink -down-> doWork: "Do inkosation"
+sec -down-> doWork: "Security objects"
+
+sec -> report: "Accident report"
+ink -> report: "Accident report"
+
+wpn -down-> buyWpn: "Request"
+wpn -down-> regWpn: "Register"
+wpn -down-> assignWpn: "Assign"
+
+rec -down-> recrut: "Test person and register"
+
+@enduml

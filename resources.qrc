@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file alias="global">styles.qss</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file alias="password">assets/lock.png</file>
+        <file alias="user">assets/user.png</file>
+        <file alias="cusomerLogin">assets/key.png</file>
+        <file alias="employeeLogin">assets/locksmith.png</file>
+        <file>assets/logo-512.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file alias="big-logo">assets/logo-512.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="noProfileImage">assets/cat.png</file>
+    </qresource>
+</RCC>

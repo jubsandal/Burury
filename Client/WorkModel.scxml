@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scxml xmlns="http://www.w3.org/2005/07/scxml" version="1.0" binding="early" name="WorkModel" qt:editorversion="6.0.2" xmlns:qt="http://www.qt.io/2015/02/scxml-ext">
+    <final id="Final_1">
+        <qt:editorinfo geometry="-158.05;153.98;-20;-20;40;40" scenegeometry="-158.05;153.98;-178.05;133.98;40;40"/>
+    </final>
+    <parallel id="Parallel_1">
+        <qt:editorinfo geometry="-177.43;202.91;-60;-50;120;100" scenegeometry="-177.43;202.91;-237.43;152.91;120;100"/>
+    </parallel>
+</scxml>

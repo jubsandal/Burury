@@ -1,0 +1,49 @@
+@startuml
+!theme materia
+
+
+package Server {
+
+interface "User event" as uEvent
+
+database "SQLite" {
+top to bottom direction
+collections Tables
+}
+
+node "Pages manager" as pageman {
+}
+
+node "Notify manager" as notman {
+}
+
+node "Logger" as logger
+
+uEvent -right- notman
+uEvent -left- pageman
+
+node "Database driver" as driver {
+[Command listner] -> [Command preprocessor]
+[Command preprocessor] -down-> [Command executor]
+}
+
+node "Server " as server {
+TCP -down- [Listen Socket]
+
+node "Processor" {
+[Accept process loop] -down-> [Processor worker]
+}
+
+[Listen Socket] -down-> Processor: "New connection"
+}
+
+SQLite <-down-> driver
+server <-down-> driver
+
+uEvent -down- server
+
+logger - driver
+logger - server
+
+}
+@enduml

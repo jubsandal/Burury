@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="601.0417px" preserveAspectRatio="none" style="width:876px;height:601px;background:#00000000;" version="1.1" viewBox="0 0 876 601" width="876.0417px" zoomAndPan="magnify"><defs><filter height="300%" id="fs6spd7tyaoh9" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="156.25" x="189.5833" y="206.3915"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="104.1667" x="215.625" y="248.0227">Administratoin</text><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="195.8333" x="397.9167" y="113.6124"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="143.75" x="423.9583" y="155.2436">Wapons department</text><rect fill="#ADD8E6" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="164.5833" x="645.8333" y="20.8333"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="112.5" x="671.875" y="62.4645">Wapon provider</text><path d="M593.75,149.5853 L604.1667,149.5853 C619.7917,149.5853 619.7917,56.8062 635.4167,56.8062 L645.8333,56.8062 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="195.8333" x="645.8333" y="113.6124"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="143.75" x="671.875" y="155.2436">Security department</text><path d="M593.75,149.5853 L604.1667,149.5853 C619.7917,149.5853 619.7917,149.5853 635.4167,149.5853 L645.8333,149.5853 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="212.5" x="645.8333" y="206.3915"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="160.4167" x="671.875" y="248.0227">Inkosation department</text><path d="M593.75,149.5853 L604.1667,149.5853 C619.7917,149.5853 619.7917,242.3644 635.4167,242.3644 L645.8333,242.3644 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><path d="M345.8333,242.3644 L356.25,242.3644 C371.875,242.3644 371.875,149.5853 387.5,149.5853 L397.9167,149.5853 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="214.5833" x="397.9167" y="299.1706"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="162.5" x="423.9583" y="340.8018">Accountng department</text><path d="M345.8333,242.3644 L356.25,242.3644 C371.875,242.3644 371.875,335.1434 387.5,335.1434 L397.9167,335.1434 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#FFA500" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="185.4167" x="397.9167" y="391.9497"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="133.3333" x="423.9583" y="433.5808">Recrut department</text><path d="M345.8333,242.3644 L356.25,242.3644 C371.875,242.3644 371.875,427.9225 387.5,427.9225 L397.9167,427.9225 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#ADD8E6" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="127.0833" x="10.4167" y="160.002"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="75" x="36.4583" y="201.6331">Customers</text><path d="M189.5833,242.3644 L179.1667,242.3644 C163.5417,242.3644 163.5417,195.9748 147.9167,195.9748 L137.5,195.9748 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#ADD8E6" filter="url(#fs6spd7tyaoh9)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#222222;stroke-width:1.0416666666666667;" width="105.2083" x="32.2917" y="252.781"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="53.125" x="58.3333" y="294.4122">Recruts</text><path d="M189.5833,242.3644 L179.1667,242.3644 C163.5417,242.3644 163.5417,288.7539 147.9167,288.7539 L137.5,288.7539 " fill="none" style="stroke:#2196F3;stroke-width:3.125;"/><rect fill="#FFFFFF" height="92.9206" rx="4.1667" ry="4.1667" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="156.25" x="586.4583" y="484.7287"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="52.0833" x="603.125" y="516.9849">Legend</text><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="122.9167" x="603.125" y="536.8473">Orange - insiders</text><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="110.4167" x="603.125" y="556.7097">Blue - outsiders</text><!--MD5=[14ff4da91ad72ae6d77f6b8b3daaff67]
+@startmindmap
+!theme materia
+
+legend right
+    Legend
+    Orange - insiders
+    Blue - outsiders
+endlegend
+
++[#Orange] Administratoin
+++[#Orange] Wapons department
++++[#lightblue] Wapon provider
++++[#Orange] Security department
++++[#Orange] Inkosation department
+++[#Orange] Accountng department
+++[#Orange] Recrut department
+- -[#lightblue] Customers
+- -[#lightblue] Recruts
+
+@endmindmap
+
+@startmindmap
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #FFF
+    HyperLinkColor #fd7e14
+    LineColor #1a78c2
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #2196F3-#1a78c2
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #fff
+    FontColor #9C27B0
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #222
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #222
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #fff-#fff
+	FontColor #2196F3
+	BorderColor #fff
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3    
+		LineColor #2196F3
+		LineThickness 1.0
+		FontColor #1a78c2
+	}
+	server {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	}
+	arrow {
+		FontColor #1a78c2
+		LineColor #1a78c2
+	}
+	group {
+		BackGroundColor #fff
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+		LineColor #2196F3
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #FFF
+		LineColor #7D1F8D
+		BackGroundColor #9C27B0
+	}
+	separator {
+		LineColor #fff
+		BackGroundColor #fff-#cccccc
+		FontColor #222
+	}
+	milestone {
+		FontColor #9C27B0
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #fff
+		LineColor #cccccc
+	}
+	timeline {
+		BackgroundColor #fff
+		FontColor #222
+	}
+	closed {
+		BackgroundColor #CC7A00
+		FontColor #FFF
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor #b7161c
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #fff-#fff
+}
+
+skinparam legend {
+	BackgroundColor #fff
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor #FFF-#fff
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #222
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor #fff
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #fff
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor #FFF-#fff
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#fff
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam interface {
+	BackgroundColor  #B7161C
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor #ffad33-#ff9800
+  	BorderColor #ff9800
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #fff-#fff
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+	FontColor #2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#fff
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#fff
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderColor #1a78c2
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam card {
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #fff-#fff
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+legend right
+    Legend
+    Orange - insiders
+    Blue - outsiders
+endlegend
+
++[#Orange] Administratoin
+++[#Orange] Wapons department
++++[#lightblue] Wapon provider
++++[#Orange] Security department
++++[#Orange] Inkosation department
+++[#Orange] Accountng department
+++[#Orange] Recrut department
+- -[#lightblue] Customers
+- -[#lightblue] Recruts
+
+@endmindmap
+
+PlantUML version 1.2021.16(Wed Dec 08 20:25:22 MSK 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

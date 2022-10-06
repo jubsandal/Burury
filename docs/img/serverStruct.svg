@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1134.375px" preserveAspectRatio="none" style="width:1021px;height:1134px;background:#00000000;" version="1.1" viewBox="0 0 1021 1134" width="1021.875px" zoomAndPan="magnify"><defs><linearGradient id="gdyodrc20qefo0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#FFFFFF"/></linearGradient><filter height="300%" id="fdyodrc20qefo" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="gdyodrc20qefo1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#4DABF5"/><stop offset="100%" stop-color="#2196F3"/></linearGradient></defs><g><!--MD5=[979da56a7f83e2393dc758167ae295d0]
+cluster Server--><path d="M20.8333,16.6667 L104.9479,16.6667 A6.25,6.25 0 0 1 109.1146,20.8333 L116.4063,72.125 L1005.2083,72.125 A4.1667,4.1667 0 0 1 1009.375,76.2916 L1009.375,1117.7083 A4.1667,4.1667 0 0 1 1005.2083,1121.875 L20.8333,1121.875 A4.1667,4.1667 0 0 1 16.6667,1117.7083 L16.6667,20.8333 A4.1667,4.1667 0 0 1 20.8333,16.6667 " fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><line style="stroke:#2196F3;stroke-width:1.0416666666666667;" x1="16.6667" x2="116.4063" y1="72.125" y2="72.125"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="65.3646" x="31.25" y="51.4375">Server</text><!--MD5=[f6dca2d41a3b6aa93a2f53da6142b591]
+cluster SQLite--><path d="M455.2083,238.0208 C455.2083,227.6042 533.8542,227.6042 533.8542,227.6042 C533.8542,227.6042 612.5,227.6042 612.5,238.0208 L612.5,396.3542 C612.5,406.7708 533.8542,406.7708 533.8542,406.7708 C533.8542,406.7708 455.2083,406.7708 455.2083,396.3542 L455.2083,238.0208 " fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><path d="M455.2083,238.0208 C455.2083,248.4375 533.8542,248.4375 533.8542,248.4375 C533.8542,248.4375 612.5,248.4375 612.5,238.0208 " fill="none" style="stroke:#2196F3;stroke-width:1.0416666666666667;"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="66.4063" x="500.651" y="283.2083">SQLite</text><!--MD5=[ad1ccc8de92f1bc58f780b3d3b678fdb]
+cluster driver--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="455.2083,472.9167,465.625,462.5,976.0417,462.5,976.0417,882.2917,965.625,892.7083,455.2083,892.7083,455.2083,472.9167" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="965.625" x2="976.0417" y1="472.9167" y2="462.5"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="455.2083" x2="965.625" y1="472.9167" y2="472.9167"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="965.625" x2="965.625" y1="472.9167" y2="892.7083"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="162.2396" x="630.3385" y="508.7291">Database driver</text><!--MD5=[4ef80439e1ef409f8f3a0ec422262701]
+cluster server--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="50,225,60.4167,214.5833,413.5417,214.5833,413.5417,1078.125,403.125,1088.5417,50,1088.5417,50,225" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="403.125" x2="413.5417" y1="225" y2="214.5833"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="50" x2="403.125" y1="225" y2="225"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="403.125" x2="403.125" y1="225" y2="1088.5417"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="65.3646" x="192.3177" y="260.8125">Server</text><!--MD5=[8a3b23346926112bca4813b9a35ab60e]
+cluster Processor--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="91.6667,723.9583,102.0833,713.5417,363.5417,713.5417,363.5417,1036.4583,353.125,1046.875,91.6667,1046.875,91.6667,723.9583" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="353.125" x2="363.5417" y1="723.9583" y2="713.5417"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="91.6667" x2="353.125" y1="723.9583" y2="723.9583"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="353.125" x2="353.125" y1="723.9583" y2="1046.875"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="102.7344" x="172.0703" y="759.7708">Processor</text><!--MD5=[0d8424259f44d71ca00f8483b6ac739b]
+entity uEvent--><ellipse cx="405.2083" cy="121.3542" fill="#B7161C" filter="url(#fdyodrc20qefo)" rx="8.3333" ry="8.3333" style="stroke:#E51C23;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="75" x="367.7083" y="165.0687">User event</text><!--MD5=[d7a01c17c4163d10b2c6131af23a7c66]
+entity logger--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="636.9792,325.5208,647.3958,315.1042,748.4375,315.1042,748.4375,376.6332,738.0208,387.0499,636.9792,387.0499,636.9792,325.5208" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="738.0208" x2="748.4375" y1="325.5208" y2="315.1042"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="636.9792" x2="738.0208" y1="325.5208" y2="325.5208"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="738.0208" x2="738.0208" y1="325.5208" y2="387.0499"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="48.9583" x="663.0208" y="361.9437">Logger</text><!--MD5=[61cd25fba67235613b8afc34aee24c96]
+entity Tables--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="57.3624" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="83.3333" x="504.1667" y="324.4792"/><rect fill="url(#gdyodrc20qefo1)" height="57.3624" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="83.3333" x="500" y="320.3125"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="45.8333" x="518.75" y="354.652">Tables</text><!--MD5=[1b1c8cafd3a99d721fd0b301f43aa787]
+entity pageman--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="186.9792,95.8333,197.3958,85.4167,358.8542,85.4167,358.8542,146.9457,348.4375,157.3624,186.9792,157.3624,186.9792,95.8333" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="348.4375" x2="358.8542" y1="95.8333" y2="85.4167"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="186.9792" x2="348.4375" y1="95.8333" y2="95.8333"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="348.4375" x2="348.4375" y1="95.8333" y2="157.3624"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="109.375" x="213.0208" y="132.2562">Pages manager</text><!--MD5=[6870522a47be6351fdd9d4a2f185880f]
+entity notman--><polygon fill="url(#gdyodrc20qefo0)" filter="url(#fdyodrc20qefo)" points="451.5625,95.8333,461.9792,85.4167,623.4375,85.4167,623.4375,146.9457,613.0208,157.3624,451.5625,157.3624,451.5625,95.8333" style="stroke:#222222;stroke-width:1.0416666666666667;"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="613.0208" x2="623.4375" y1="95.8333" y2="85.4167"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="451.5625" x2="613.0208" y1="95.8333" y2="95.8333"/><line style="stroke:#222222;stroke-width:1.0416666666666667;" x1="613.0208" x2="613.0208" y1="95.8333" y2="157.3624"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="109.375" x="477.6042" y="132.2562">Notify manager</text><!--MD5=[42f1a4dde05c988e867662bf0bb4d5ec]
+entity Command listner--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="183.3333" x="500" y="544.7917"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="662.5" y="550"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="660.4167" y="552.0833"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="660.4167" y="556.25"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="120.8333" x="526.0417" y="591.6312">Command listner</text><!--MD5=[5d72c845f769376038ecbe47c08b813c]
+entity Command preprocessor--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="231.25" x="719.7917" y="544.7917"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="930.2083" y="550"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="928.125" y="552.0833"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="928.125" y="556.25"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="168.75" x="745.8333" y="591.6312">Command preprocessor</text><!--MD5=[10591038f90d660825beef51e149fe2b]
+entity Command executor--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="198.9583" x="735.9375" y="795.8333"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="914.0625" y="801.0417"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="911.9792" y="803.125"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="911.9792" y="807.2917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="136.4583" x="761.9792" y="842.6728">Command executor</text><!--MD5=[1c6f0381035d37faabcf8172735cb275]
+entity TCP--><ellipse cx="152.0833" cy="351.0417" fill="#B7161C" filter="url(#fdyodrc20qefo)" rx="8.3333" ry="8.3333" style="stroke:#E51C23;stroke-width:1.0416666666666667;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="26.0417" x="139.0625" y="394.7562">TCP</text><!--MD5=[cc84a2c330ca7d2c7ae2ea972c37b92c]
+entity Listen Socket--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="153.125" x="75.5208" y="544.7917"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="207.8125" y="550"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="205.7292" y="552.0833"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="205.7292" y="556.25"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="90.625" x="101.5625" y="591.6312">Listen Socket</text><!--MD5=[19de42b61d999ca7879a1b1a110d6515]
+entity Accept process loop--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="202.0833" x="136.4583" y="795.8333"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="317.7083" y="801.0417"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="315.625" y="803.125"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="315.625" y="807.2917"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="139.5833" x="162.5" y="842.6728">Accept process loop</text><!--MD5=[f27c8ef4482d6c6ac7fea43dda81189e]
+entity Processor worker--><rect fill="url(#gdyodrc20qefo1)" filter="url(#fdyodrc20qefo)" height="71.9457" rx="4.1667" ry="4.1667" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="182.2917" x="146.3542" y="950"/><rect fill="url(#gdyodrc20qefo1)" height="10.4167" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="15.625" x="307.8125" y="955.2083"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="305.7292" y="957.2917"/><rect fill="url(#gdyodrc20qefo1)" height="2.0833" style="stroke:#2196F3;stroke-width:1.0416666666666667;" width="4.1667" x="305.7292" y="961.4583"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="119.7917" x="172.3958" y="996.8395">Processor worker</text><!--MD5=[e27665a445c6f2efbc05fb7c2baf9ef3]
+link uEvent to notman--><path d="M415.0313,121.3542 C427.1458,121.3542 439.2708,121.3542 451.3854,121.3542 " fill="none" id="uEvent-notman" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[38b5132151658dc5fe409678770c7769]
+link pageman to uEvent--><path d="M359.2188,121.3542 C371.3125,121.3542 383.4063,121.3542 395.5104,121.3542 " fill="none" id="pageman-uEvent" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[20d8c6ff87f58e2c46afcf35b9a83992]
+link Command listner to Command preprocessor--><path d="M683.5521,580.7292 C693.8229,580.7292 704.0938,580.7292 714.3646,580.7292 " fill="none" id="Command listner-to-Command preprocessor" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="719.7396,580.7292,710.3646,576.5625,714.5313,580.7292,710.3646,584.8958,719.7396,580.7292" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[34d7db00c7eb409804c49c3892509a57]
+link Command preprocessor to Command executor--><path d="M835.4167,616.9167 C835.4167,662.6042 835.4167,742.2188 835.4167,790.3438 " fill="none" id="Command preprocessor-to-Command executor" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="835.4167,795.7708,839.5833,786.3958,835.4167,790.5625,831.25,786.3958,835.4167,795.7708" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[f5e5b7901745af4401e63e01e88c4fcb]
+link TCP to Listen Socket--><path d="M152.0833,360.4583 C152.0833,389.9688 152.0833,490.3125 152.0833,544.4167 " fill="none" id="TCP-Listen Socket" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[9089125448802b14d39f7c8ae6a38138]
+link Accept process loop to Processor worker--><path d="M237.5,868.0833 C237.5,890.9271 237.5,920.7396 237.5,944.5208 " fill="none" id="Accept process loop-to-Processor worker" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="237.5,949.8125,241.6667,940.4375,237.5,944.6042,233.3333,940.4375,237.5,949.8125" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[8cc0fcbea97f00a2752cb25ba202159d]
+link Listen Socket to Processor--><path d="M141.0208,616.75 C134.1667,639.4167 125.5938,669.6771 119.7917,696.875 C119.0195,700.4935 118.2675,704.1734 117.536,707.8934 C117.1703,709.7534 116.8097,711.6235 116.4543,713.5009 " fill="none" id="Listen Socket-to-Processor" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="116.4543,713.5009,122.292,705.0646,117.423,708.3835,114.1041,703.5145,116.4543,713.5009" style="stroke:#2196F3;stroke-width:3.125;"/><text fill="#222222" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="101.0417" x="142.7083" y="673.8511">New connection</text><!--MD5=[7673811efe8c8a6680bc5015d50352c0]
+link SQLite to driver--><path d="M463.5417,407.7474 C463.5417,408.1237 463.5417,408.5012 463.5417,408.8798 C463.5417,409.6369 463.5417,410.3987 463.5417,411.1647 C463.5417,412.6968 463.5417,414.2463 463.5417,415.8116 C463.5417,418.9421 463.5417,422.1358 463.5417,425.3799 C463.5417,431.8683 463.5417,438.5587 463.5417,445.3501 C463.5417,448.7457 463.5417,452.1667 463.5417,455.6001 C463.5417,457.3169 463.5417,459.0368 463.5417,460.7583 C463.5417,461.1886 463.5417,461.6191 463.5417,462.0496 C463.5417,462.1573 463.5417,462.2649 463.5417,462.3725 " fill="none" id="SQLite-driver" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="463.5417,462.3725,467.7083,452.9975,463.5417,457.1642,459.375,452.9975,463.5417,462.3725" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="463.5417,407.7474,459.375,417.1224,463.5417,412.9558,467.7083,417.1224,463.5417,407.7474" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[8c7bdce0c8aec25dea0952160abfd465]
+link server to driver--><path d="M413.6086,384.8586 C413.6889,385.1719 413.7697,385.487 413.8509,385.8037 C414.1756,387.0705 414.5072,388.3642 414.8452,389.6831 C420.2542,410.7861 427.321,438.3574 434.3867,465.9258 C441.4525,493.4941 448.5173,521.0596 453.9224,542.1509 C454.2602,543.4691 454.5915,544.762 454.916,546.0281 C454.9971,546.3446 455.0778,546.6594 455.158,546.9725 " fill="none" id="server-driver" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="455.158,546.9725,456.8669,536.8566,453.8651,541.9272,448.7945,538.9253,455.158,546.9725" style="stroke:#2196F3;stroke-width:3.125;"/><polygon fill="#2196F3" points="413.6086,384.8586,411.9001,394.9746,414.9018,389.9038,419.9725,392.9055,413.6086,384.8586" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[b97a80842f037f2826c15d4fc2cec73b]
+link uEvent to server--><path d="M405.2083,130.7708 C405.2083,140.875 405.2083,159.2832 405.2083,181.2964 C405.2083,186.7997 405.2083,192.5283 405.2083,198.4088 C405.2083,201.349 405.2083,204.3273 405.2083,207.3343 C405.2083,208.8378 405.2083,210.3485 405.2083,211.8652 C405.2083,212.6236 405.2083,213.3835 405.2083,214.1448 " fill="none" id="uEvent-server" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[b4a23d3568885600ada2be4526170a58]
+link logger to driver--><path d="M657.5729,387.125 C642.3229,400.4479 623.5417,414.5313 604.1667,423.4375 C554.5417,446.25 521.2396,406.5104 483.3333,445.8333 C480.765,448.4967 478.4377,451.3391 476.3317,454.3282 C475.2787,455.8228 474.2809,457.3541 473.336,458.918 C472.8635,459.7 472.4043,460.4902 471.9579,461.288 C471.7347,461.6869 471.5147,462.0878 471.298,462.4905 " fill="none" id="logger-driver" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[da63d9ba09056a03d0ef148a94a57bbd]
+link logger to server--><path d="M683.5938,314.9062 C670.4167,271.75 641.3125,202.3125 585.9375,177.6042 C536.8958,155.7188 514.1458,155.7188 465.1042,177.6042 C447.0677,185.651 434.2546,199.9733 425.1925,217.0592 C420.6615,225.6022 417.0683,234.8361 414.2289,244.3219 C414.0514,244.9148 413.8769,245.5087 413.7053,246.1034 " fill="none" id="logger-server" style="stroke:#2196F3;stroke-width:3.125;"/><!--MD5=[b5ebe4ad55abe0be367d82029aec974b]
+@startuml
+!theme materia
+
+
+package Server {
+
+interface "User event" as uEvent
+
+database "SQLite" {
+top to bottom direction
+collections Tables
+}
+
+node "Pages manager" as pageman {
+}
+
+node "Notify manager" as notman {
+}
+
+node "Logger" as logger
+
+uEvent -right- notman
+uEvent -left- pageman
+
+node "Database driver" as driver {
+[Command listner] -> [Command preprocessor]
+[Command preprocessor] -down-> [Command executor]
+}
+
+node "Server " as server {
+TCP -down- [Listen Socket]
+
+node "Processor" {
+[Accept process loop] -down-> [Processor worker]
+}
+
+[Listen Socket] -down-> Processor: "New connection"
+}
+
+SQLite <-down-> driver
+server <-down-> driver
+
+uEvent -down- server
+
+logger - driver
+logger - server
+
+}
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #FFF
+    HyperLinkColor #fd7e14
+    LineColor #1a78c2
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #2196F3-#1a78c2
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #fff
+    FontColor #9C27B0
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #222
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #222
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #fff-#fff
+	FontColor #2196F3
+	BorderColor #fff
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3    
+		LineColor #2196F3
+		LineThickness 1.0
+		FontColor #1a78c2
+	}
+	server {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	}
+	arrow {
+		FontColor #1a78c2
+		LineColor #1a78c2
+	}
+	group {
+		BackGroundColor #fff
+		LineColor $LIGHT_DARK
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+		LineColor #2196F3
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #FFF
+		LineColor #7D1F8D
+		BackGroundColor #9C27B0
+	}
+	separator {
+		LineColor #fff
+		BackGroundColor #fff-#cccccc
+		FontColor #222
+	}
+	milestone {
+		FontColor #9C27B0
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #fff
+		LineColor #cccccc
+	}
+	timeline {
+		BackgroundColor #fff
+		FontColor #222
+	}
+	closed {
+		BackgroundColor #CC7A00
+		FontColor #FFF
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor #b7161c
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #fff-#fff
+}
+
+skinparam legend {
+	BackgroundColor #fff
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor #FFF-#fff
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #222
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor #fff
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #fff
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor #FFF-#fff
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#fff
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam interface {
+	BackgroundColor  #B7161C
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor #ffad33-#ff9800
+  	BorderColor #ff9800
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #fff-#fff
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+	FontColor #2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#fff
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#fff
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderColor #1a78c2
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam card {
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #fff-#fff
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+package Server {
+
+interface "User event" as uEvent
+
+database "SQLite" {
+top to bottom direction
+collections Tables
+}
+
+node "Pages manager" as pageman {
+}
+
+node "Notify manager" as notman {
+}
+
+node "Logger" as logger
+
+uEvent -right- notman
+uEvent -left- pageman
+
+node "Database driver" as driver {
+[Command listner] -> [Command preprocessor]
+[Command preprocessor] -down-> [Command executor]
+}
+
+node "Server " as server {
+TCP -down- [Listen Socket]
+
+node "Processor" {
+[Accept process loop] -down-> [Processor worker]
+}
+
+[Listen Socket] -down-> Processor: "New connection"
+}
+
+SQLite <-down-> driver
+server <-down-> driver
+
+uEvent -down- server
+
+logger - driver
+logger - server
+
+}
+@enduml
+
+PlantUML version 1.2021.16(Wed Dec 08 20:25:22 MSK 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

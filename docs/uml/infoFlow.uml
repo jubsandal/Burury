@@ -1,0 +1,32 @@
+@startuml
+!theme materia
+top to bottom direction
+
+actor Customer as cus
+actor "Recrut" as req
+
+package PSC {
+actor "Accounting department" as acc
+actor Administration as adm
+actor "Security department" as sec
+actor "Inkosation department" as ink
+actor "Wapon department" as wpn
+actor "Recruit department" as rec
+}
+
+adm <-down-> cus: Contract request
+req <-up-> rec: Recrut request
+adm <- rec
+
+adm -up-> sec: Contract
+adm -up-> ink: Contract
+adm <-down-> acc: Payment
+
+wpn <-down-> sec: Wapon request
+wpn <-down-> ink: Wapon request
+
+acc -down-> wpn: Payment
+acc -down-> sec: Payment
+acc -up-> rec: Payment
+acc -down-> ink: Payment
+@enduml

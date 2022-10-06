@@ -1,0 +1,27 @@
+@startuml
+!theme materia
+
+actor Client as cli
+
+rectangle Server {
+database "SQLite" as db {
+[Roles] -down-> [Commands]
+}
+
+node "Database driver" as driver {
+
+interface "SQLite Driver" as Driver
+
+node "Identification System" as ident {
+}
+
+Driver - ident
+
+}
+
+
+driver <-up--> db
+}
+
+cli -up-> ident: "Login + Password"
+@enduml

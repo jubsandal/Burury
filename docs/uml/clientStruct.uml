@@ -1,0 +1,41 @@
+@startuml
+!theme materia
+
+
+package Client {
+
+interface "User event" as uEvent
+
+node "Pages manager" as pageman {
+}
+
+node "Notify manager" as notman {
+}
+
+node "Logger" as logger
+
+uEvent -right- notman
+uEvent -left- pageman
+
+node "Service " as service {
+TCP -down- [Control socket]
+
+[Control socket] -down-> [Connection manager]
+}
+
+uEvent -down- service
+
+logger -down- service
+
+rectangle Pages {
+[Employees pages]
+[Customer pages]
+}
+
+service -> [Page chooser]: Role
+[Page chooser] -down-> Pages
+
+Pages --> service: Custom command
+
+}
+@enduml

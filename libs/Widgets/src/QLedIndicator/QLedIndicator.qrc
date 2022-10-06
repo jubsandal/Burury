@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QLedIndicator">
+        <file alias="green">leds/led_green.png</file>
+        <file alias="gray">leds/led_grey.png</file>
+        <file alias="orange">leds/led_orange.png</file>
+        <file alias="red">leds/led_red.png</file>
+        <file alias="led">leds/led.svg</file>
+    </qresource>
+</RCC>
