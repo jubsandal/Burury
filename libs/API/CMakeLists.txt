@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21)
-project(API LANGUAGES CXX VERSION 0.9.0 DESCRIPTION "siisty API merged with database module(TODO split it!)")
+project(API LANGUAGES CXX VERSION 0.9.0 DESCRIPTION "Burury API module merged with database module(TODO split it!)")
 
 #####################
 #  finding sources  #
@@ -42,7 +42,7 @@ target_link_libraries(
     PUBLIC
         Qt${QT_VERSION_MAJOR}::Sql
         Qt${QT_VERSION_MAJOR}::Core
-        Widgets
+        Qt${QT_VERSION_MAJOR}::Widgets
         Logger
     PRIVATE
         Crypto

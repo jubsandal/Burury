@@ -5,10 +5,10 @@
 #include <QTcpServer>
 
 class SslServer : public QTcpServer {
-    Q_OBJECT
+        Q_OBJECT
 
-    public:
-        virtual void incomingConnection(int socketDescriptor);
+        public:
+                virtual void incomingConnection(int socketDescriptor);
 };
 
 #endif // SSLSERVER_H

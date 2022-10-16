@@ -3,9 +3,18 @@
 
 #include <array>
 #include <QVector>
+#include <QImage>
+#include <QBuffer>
+#include <QPixmap>
+#include <QIcon>
 
 #define Q(x) #x
 #define QUOTE(x) Q(x)
+
+QPixmap QPixmapFromQString(const QString& str);
+QIcon QIconFromQString(const QString& str);
+QImage QImageFromQString(const QString& str);
+QString QStringFromQImage(const QImage& img);
 
 namespace API {
 
@@ -13,23 +22,9 @@ namespace API {
 
         const auto TABLE_ARRAY_SEPARATOR = R"(:)";
 
-        enum class Weekdays {
-                Mondey,
-                Tuesday,
-                Wednesday,
-                Thursday,
-                Friday,
-                Saturday,
-                Sunday,
-        };
+        bool conntainJoinRequest(const QString& whereReq);
 
-        /* using Week = Weekdays[7]; */
-        using Week = std::array<Weekdays, 7>;
-
-        // presets
-        struct Weekends {
-                static Week five_on_two; //{Weekdays::Saturday, Weekdays::Sunday};
-        };
+        QString extractImg(QVariant const& v);
 
 } /* API  */ 
 

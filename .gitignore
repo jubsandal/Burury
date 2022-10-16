@@ -2,12 +2,19 @@
 tmp
 log
 lib
+lib/
 *.log
 vgcore.*
 *.sqlite
 *.sqlite3
 *.db
+tmp/
 CMakeLists.txt.user
+.auth
+database.db
+.burury.sqlite
+burury.db
+*.db
 
 compile_commands.json
 bin/*

@@ -1,0 +1,14 @@
+#include "RoleSetup/DIR_NAME/RENAME_ME.hpp"
+#include "ui_RENAME_ME.h"
+
+RENAME_ME::RENAME_ME(QWidget *parent) :
+        QWidget(parent),
+        ui(new Ui::RENAME_ME)
+{
+        ui->setupUi(this);
+}
+
+RENAME_ME::~RENAME_ME()
+{
+        delete ui;
+}

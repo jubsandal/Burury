@@ -4,16 +4,16 @@
 #include <QList>
 #include <QSslSocket>
 #include <QThreadPool>
-#include "API/API.hpp"
+#include "API/Driver.hpp"
 #include "iiServer/SslServer.hpp"
 #include "iiServer/iiClient.hpp"
 
 #include "Logger/logger.hpp"
 
 class iiServer : public QObject {
-    Q_OBJECT
+Q_OBJECT
 
-    public:
+public:
         explicit iiServer(QObject * p = nullptr);
         ~iiServer();
 
@@ -27,13 +27,13 @@ class iiServer : public QObject {
         void setMaxPendingConnections(int);
         void setForseUseSsl(bool);
 
-    Q_SIGNALS:
+Q_SIGNALS:
         void logMessage(QString, int = LoggingLevel::Trace);
         void listeningStateChanged(QHostAddress, quint16, bool);
 
         void addCommand(API::DriverCmd);
 
-    protected Q_SLOTS:
+protected Q_SLOTS:
 
         void acceptConnection();
         void handshakeComplete();
@@ -43,7 +43,7 @@ class iiServer : public QObject {
 
         /* void pauseListening(); */
 
-    private:
+private:
         QThreadPool * _threadPool;
         QHostAddress _address;
         quint16 _port;

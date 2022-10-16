@@ -1,0 +1,21 @@
+#ifndef RENAME_ME_H
+#define RENAME_ME_H
+
+#include <QWidget>
+
+namespace Ui {
+class RENAME_ME;
+}
+
+class RENAME_ME : public QWidget {
+Q_OBJECT
+
+public:
+        explicit RENAME_ME(QWidget *parent = nullptr);
+        ~RENAME_ME();
+
+private:
+        Ui::RENAME_ME *ui;
+};
+
+#endif // RENAME_ME_H

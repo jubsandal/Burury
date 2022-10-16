@@ -1,0 +1,63 @@
+@startuml
+!theme materia
+actor Checker as checker
+participant Database as db
+participant Server as server
+
+actor Client as human
+participant Task as task
+
+activate human
+human -> server: Register(tg username, password)
+deactivate human
+activate server
+server -> db: Check for user existance
+deactivate server
+activate db
+db -> server: Exists/Unexists
+deactivate db
+activate server
+server -> human: Enter confirmation code prompt
+deactivate server
+activate human
+human -> server: Confirmation code
+deactivate human
+activate server
+server -> db: Write user
+deactivate server
+activate db
+db -> server: Done
+deactivate db
+activate server
+server -> human: App access
+deactivate server
+activate human
+human -> server: Job request
+deactivate human
+activate server
+server -> db: Search avalible tokens(optionaly multiple)
+deactivate server
+activate db
+db -> server: Tokens with setted timeout
+deactivate db
+activate server
+server -> human: Job token
+deactivate server
+activate human
+human -> human: Run prerequest scripts
+human -> task: Start
+activate task
+task -> human: Done
+deactivate task
+human -> server: Send payment request and apply some attachments(Or full automatic check)
+deactivate human
+activate server
+server -> checker: Attachments for job token
+deactivate server
+activate checker
+checker -> server: Accept/Reject
+deactivate checker
+activate server
+server -> human: Payment
+deactivate server
+@enduml
